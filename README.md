@@ -33,11 +33,30 @@ Browse news from different sources, switch between light and dark themes, and le
 
 - ## 🖼️ Screenshots
 
-| Screenshot | Description |
-|------------|-------------|
-| ![Home Screen](screenshots/home.png) | Home screen showing latest news headlines |
-| ![Settings](screenshots/settings.png) | Settings screen with Light/Dark mode toggle |
-| ![News Detail](screenshots/detail.png) | News detail screen showing full article |
-| ![Foreground Service](screenshots/service.png) | Foreground service running and fetching latest news |
+<h2>🖼️ Screenshots</h2>
+
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
+
+  <div style="text-align:center;">
+    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/home.png" alt="Home Screen" width="250"/>
+    <p>Home screen showing latest news headlines</p>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/settings.png" alt="Settings" width="250"/>
+    <p>Settings screen with Light/Dark mode toggle</p>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/detail.png" alt="News Detail" width="250"/>
+    <p>News detail screen showing full article</p>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/service.png" alt="Foreground Service" width="250"/>
+    <p>Foreground service running and fetching latest news</p>
+  </div>
+
+</div>
 
 
