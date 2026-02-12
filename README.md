@@ -35,28 +35,35 @@ Browse news from different sources, switch between light and dark themes, and le
 
 <h2>🖼️ Screenshots</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://uploadkon.ir/uploads/5d8512_26sc-serice.png" alt="Foreground Service" width="250"/><br/>
+      Foreground Service running and fetching latest news
+    </td>
+    <td align="center">
+      <img src="https://uploadkon.ir/uploads/e5b312_26sc-dark-home.png" alt="Dark Home Screen" width="250"/><br/>
+      Dark Home screen showing latest news
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://uploadkon.ir/uploads/e5b312_26sc-dark-setting.png" alt="Dark Settings" width="250"/><br/>
+      Dark Settings screen with Light/Dark toggle
+    </td>
+    <td align="center">
+      <img src="https://uploadkon.ir/uploads/014c12_26sc-light-home.png" alt="Light Home Screen" width="250"/><br/>
+      Light Home screen showing latest news
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://uploadkon.ir/uploads/014c12_26sc-light-setting.png" alt="Light Settings" width="250"/><br/>
+      Light Settings screen with toggle
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-  <div style="text-align:center;">
-    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/home.png" alt="Home Screen" width="250"/>
-    <p>Home screen showing latest news headlines</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/settings.png" alt="Settings" width="250"/>
-    <p>Settings screen with Light/Dark mode toggle</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/detail.png" alt="News Detail" width="250"/>
-    <p>News detail screen showing full article</p>
-  </div>
-
-  <div style="text-align:center;">
-    <img src="https://github.com/behnamUix/Newspaper/raw/main/screenshots/service.png" alt="Foreground Service" width="250"/>
-    <p>Foreground service running and fetching latest news</p>
-  </div>
-
-</div>
 
 
