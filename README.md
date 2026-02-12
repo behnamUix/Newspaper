@@ -1,39 +1,40 @@
 # 🗞️ Newspaper
 
-**Newspaper** is a lightweight Android news app that keeps you up to date with the latest headlines.  
-Browse news from different sources, switch between light and dark themes, and let the background service fetch the latest updates for you.
+**Newspaper** is a sleek, lightweight Android news app designed to keep you informed with the latest headlines.  
+Browse news from multiple sources, switch seamlessly between Light and Dark modes, and enjoy automatic updates through the background foreground service.
 
 ---
 
 ## ✨ Features
 
-- 📰 Display latest news from multiple sources  
-- 🌗 Light & Dark mode support  
-- ⚙️ Settings screen for app preferences  
-- 🔄 Background foreground service for live news updates  
-- 🚀 Fast, simple, and clean UI  
-- 📡 Auto refresh to keep news up to date
+- 📰 Aggregates news from multiple sources  
+- 🌗 Full Light & Dark theme support  
+- ⚙️ Customizable settings for a personalized experience  
+- 🔄 Foreground service for live, automatic news updates  
+- 🚀 Fast, smooth, and clean user interface  
+- 📡 Auto-refresh to always keep you updated  
 
+---
 
 # 🗞️ Newspaper
 
-**Newspaper** یک اپلیکیشن سبک اندروید برای نمایش آخرین اخبار است.  
-اخبار را از منابع مختلف مرور کنید، بین حالت روشن و تاریک سوییچ کنید و اجازه دهید سرویس پس‌زمینه آخرین اخبار را برای شما به‌روزرسانی کند.
+**Newspaper** یک اپلیکیشن اندروید سبک و مدرن است که شما را با آخرین اخبار به‌روز نگه می‌دارد.  
+اخبار را از منابع مختلف مرور کنید، بین حالت روشن و تاریک سوییچ کنید و با سرویس پس‌زمینه، همیشه آخرین اخبار در دسترس شماست.
 
 ---
 
 ## ✨ قابلیت‌ها
 
-- 📰 نمایش آخرین اخبار از منابع مختلف  
-- 🌗 پشتیبانی از حالت روشن و تاریک  
-- ⚙️ صفحه تنظیمات برای انتخاب ترجیحات اپ  
-- 🔄 سرویس Foreground برای دریافت اخبار زنده  
-- 🚀 رابط کاربری سریع، ساده و تمیز  
-- 📡 بروزرسانی خودکار اخبار
+- 📰 جمع‌آوری اخبار از منابع مختلف  
+- 🌗 پشتیبانی کامل از حالت روشن و تاریک  
+- ⚙️ تنظیمات شخصی‌سازی شده برای تجربه کاربری بهتر  
+- 🔄 سرویس Foreground برای بروزرسانی خودکار اخبار  
+- 🚀 رابط کاربری سریع، روان و مینیمال  
+- 📡 بروزرسانی خودکار برای همیشه به‌روز بودن  
 
-- ## 🖼️ Screenshots
+---
 
-<h2>🖼️ Screenshots</h2>
+## 🖼️ Screenshots
 
 <table>
   <tr>
@@ -64,6 +65,3 @@ Browse news from different sources, switch between light and dark themes, and le
     <td></td>
   </tr>
 </table>
-
-
-
