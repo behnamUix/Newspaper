@@ -30,3 +30,14 @@ Browse news from different sources, switch between light and dark themes, and le
 - 🔄 سرویس Foreground برای دریافت اخبار زنده  
 - 🚀 رابط کاربری سریع، ساده و تمیز  
 - 📡 بروزرسانی خودکار اخبار
+
+- ## 🖼️ Screenshots
+
+| Screenshot | Description |
+|------------|-------------|
+| ![Home Screen](screenshots/home.png) | Home screen showing latest news headlines |
+| ![Settings](screenshots/settings.png) | Settings screen with Light/Dark mode toggle |
+| ![News Detail](screenshots/detail.png) | News detail screen showing full article |
+| ![Foreground Service](screenshots/service.png) | Foreground service running and fetching latest news |
+
+
